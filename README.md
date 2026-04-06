@@ -11,7 +11,7 @@ A Pokémon-style game built with Unity, using real-time hand motion detection vi
 
 ## Gameplay Demo
 
-Watch demo video ([Google Drive](https://drive.google.com/file/d/14o11ExN8s2CW-YeKCryMwzIzZHpUgUQw/view?usp=sharing))
+Watch demo video ([Google Drive](https://drive.google.com/file/d/138mbP_tGK7FwvcEMS-08FKFdH7Uo_4K-/view?usp=sharing))
 
 ## Unity Source Code
 
